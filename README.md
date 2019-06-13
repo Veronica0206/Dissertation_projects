@@ -9,6 +9,9 @@ In this part, we developed four models:
 - Estimating fixed knots in BLSGMs-TICs
 - Estimating random knots in BLSGMs-TICs
 
-**Code \& Output:** <br>
+**Demo:** <br>
 [Frequentist Framework](https://github.com/Veronica0206/Dissertation_projects/blob/master/demo.md) <br>
+
+**Source Code:** <br>
+Will be updated later
 
