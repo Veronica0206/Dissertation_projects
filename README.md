@@ -1,6 +1,6 @@
 # Dissertation Projects Demo
 
-## Part I: Bilinear spline growth models (BLSGMs) w(w/o) individually-varying time points (ITPs)
+## Part I: Bilinear spline growth models (BLSGMs) w(w/o) time-invariant covariates (TICs) in the framework of individually-varying time points (ITPs)
 **Description:** <br>
 In this part, we developed four models in unstructured time framework:
 - BLSGMs for estimating fixed knots 
@@ -14,8 +14,7 @@ In this part, we developed four models in unstructured time framework:
 **Source Code:** <br>
 Will be added later
 
-## Part II: Bilinear spline growth mixture models (BLSGMMs) with individually-varying time points (ITPs)
-**Description:** <br>
+## Part II: Bilinear spline growth mixture models (BLSGMMs) in the framework of individually-varying time points (ITPs)
 In this part, we developed two models in unstructured time framework:
 - Two-step BLSGMMs for estimating fixed knots
 - One-step BLSGMMs for estimating fixed knots
