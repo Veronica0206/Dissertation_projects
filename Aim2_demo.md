@@ -152,7 +152,7 @@ ggplot(aes(x = time, y = measures), data = long_dat) +
     ## `geom_smooth()` using method = 'gam' and formula 'y ~ s(x, bs = "cs")'
     ## `geom_smooth()` using method = 'gam' and formula 'y ~ s(x, bs = "cs")'
 
-![](demo_files/figure-markdown_github/unnamed-chunk-4-1.png)
+![](Aim2_demo_files/figure-markdown_github/unnamed-chunk-4-1.png)
 
 Bilinear Spline Growth Mixture Model with Unknown Fixed Knots
 -------------------------------------------------------------
