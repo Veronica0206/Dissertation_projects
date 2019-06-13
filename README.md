@@ -1,7 +1,7 @@
 # Dissertation Projects Demo
 
 
-## Part I: Develop bilinear spline growth models (BLSGMs) with(out) the individually-varying time points (ITPs)
+## Part I: Develop bilinear spline growth models (BLSGMs) w(w/o) the individually-varying time points (ITPs)
 **Description:** <br>
 In this part, we developed four models:
 - Estimating fixed knots in BLSGMs
