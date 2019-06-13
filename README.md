@@ -1,1 +1,4 @@
-# Dissertation_projects
+# Estimate Knots in Bilinear Spline Growth Mixture Models with Individually-varying Time Points
+
+– Develop frequentist and Bayesian nonlinear latent growth curve models with the individually-varying time points (ITPs). The nonlinear models with ITPs, which highly extend existing methods to complicated data structures, excel at esti- mating an inflection point (and its variability) of trajectories as well as examining predictors of such inflection points. (https://ww2.amstat.org/meetings/jsm/2019)
+– Develop frequentist and Bayesian nonlinear growth mixture models with the ITPs for multiple latent classes and perform cross-validation to select the optimal model. The novel models efficiently separate individuals by their change patterns with considering uncertainty and then identify individual-level factors associated with such unobserved groups.
