@@ -11,7 +11,7 @@ In this part, we developed four models in unstructured time framework:
 **Demo:** 
 Frequentist Framework:
 
-- [R package: \textit{OpenMx}](https://github.com/Veronica0206/Dissertation_projects/blob/master/OpenMx_demo1.md)
+- [*R* package: *OpenMx*](https://github.com/Veronica0206/Dissertation_projects/blob/master/OpenMx_demo1.md)
 (For OS, R version, and OpenMx version, see the demo)
 
 **Source Code:** <br>
@@ -27,7 +27,7 @@ In this part, we developed two models in unstructured time framework:
 **Demo:** 
 Frequentist Framework:
 
-- [R package: \textit{OpenMx}](https://github.com/Veronica0206/Dissertation_projects/blob/master/OpenMx_demo2.md)
+- [*R* package: *OpenMx*](https://github.com/Veronica0206/Dissertation_projects/blob/master/OpenMx_demo2.md)
 (For OS, R version, and OpenMx version, see the demo)
 
 **Source Code:** <br>
