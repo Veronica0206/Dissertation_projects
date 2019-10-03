@@ -8,8 +8,11 @@ In this part, we developed four models in unstructured time framework:
 - BLSGMs-TICs for estimating fixed knots 
 - BLSGMs-TICs for estimating random knots
 
-**Demo:** <br>
-[Frequentist Framework](https://github.com/Veronica0206/Dissertation_projects/blob/master/OpenMx_demo1.md) <br>
+**Demo:** 
+Frequentist Framework:
+
+- [*R* package: *OpenMx*](https://github.com/Veronica0206/Dissertation_projects/blob/master/OpenMx_demo1.md)
+(For OS, R version, and OpenMx version, see the demo)
 
 **Source Code:** <br>
 Will be added later
@@ -21,8 +24,11 @@ In this part, we developed two models in unstructured time framework:
 (2) Second step: investigate predictors for clusters
 - One-step BLSGMMs for estimating fixed knots (Mixture of experts models for clustering and estimating coefficients simultaneously)
 
-**Demo:** <br>
-[Frequentist Framework](https://github.com/Veronica0206/Dissertation_projects/blob/master/OpenMx_demo2.md) <br>
+**Demo:** 
+Frequentist Framework:
+
+- [*R* package: *OpenMx*](https://github.com/Veronica0206/Dissertation_projects/blob/master/OpenMx_demo2.md)
+(For OS, R version, and OpenMx version, see the demo)
 
 **Source Code:** <br>
 Will be added later
