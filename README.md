@@ -17,6 +17,7 @@ Frequentist Framework:
 Bayesian Framework:
 
 - [*R* package: *rjags*](https://github.com/Veronica0206/Dissertation_projects/blob/master/rjags_demo1.md)
+(For OS, R version, and rjags version, see the demo)
 
 **Source Code:** <br>
 Will be added later
