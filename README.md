@@ -14,6 +14,10 @@ Frequentist Framework:
 - [*R* package: *OpenMx*](https://github.com/Veronica0206/Dissertation_projects/blob/master/OpenMx_demo1.md)
 (For OS, R version, and OpenMx version, see the demo)
 
+Bayesian Framework:
+
+- [*R* package: *rjags*](https://github.com/Veronica0206/Dissertation_projects/blob/master/rjags_demo1.md)
+
 **Source Code:** <br>
 Will be added later
 
