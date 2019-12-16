@@ -50,5 +50,5 @@ Frequentist Framework:
 - [Two-step BLSGMMs-TIC](https://github.com/Veronica0206/Dissertation_projects/blob/master/Paper2_OpenMx/BLSGMM_fixed_2steps.R)
 
 [*MPlus 8*]
-- [BLSGMMs-TIC: First step](https://github.com/Veronica0206/Dissertation_projects/blob/master/Paper2_MPlus8/BLSGMM_2steps_step1.inp)
-- [BLSGMMs-TIC: Second step](https://github.com/Veronica0206/Dissertation_projects/blob/master/Paper2_MPlus8/BLSGMM_2steps_step2.inp)
+- [Two-step BLSGMMs-TIC: First step](https://github.com/Veronica0206/Dissertation_projects/blob/master/Paper2_MPlus8/BLSGMM_2steps_step1.inp)
+- [Two-step BLSGMMs-TIC: Second step](https://github.com/Veronica0206/Dissertation_projects/blob/master/Paper2_MPlus8/BLSGMM_2steps_step2.inp)
