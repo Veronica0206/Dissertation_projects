@@ -1,4 +1,4 @@
-<div align = "center">
+<div align = "justify">
   
 # Dissertation Projects Demo
 
