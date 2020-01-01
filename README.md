@@ -1,3 +1,7 @@
+<p align="justify">
+  Lorem ipsum
+</p>
+
 # Dissertation Projects Demo
 
 ## Part I: Bilinear spline growth models (BLSGMs) w(w/o) time-invariant covariates (TICs) in the framework of individual measurement occasions
