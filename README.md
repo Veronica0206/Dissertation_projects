@@ -1,7 +1,5 @@
 <p align="justify">
-  Lorem ipsum
-</p>
-
+  
 # Dissertation Projects Demo
 
 ## Part I: Bilinear spline growth models (BLSGMs) w(w/o) time-invariant covariates (TICs) in the framework of individual measurement occasions
@@ -56,3 +54,5 @@ Frequentist Framework:
 [*MPlus 8*]
 - [Two-step BLSGMMs-TIC: First step](https://github.com/Veronica0206/Dissertation_projects/blob/master/Paper2_MPlus8/BLSGMM_2steps_step1.inp)
 - [Two-step BLSGMMs-TIC: Second step](https://github.com/Veronica0206/Dissertation_projects/blob/master/Paper2_MPlus8/BLSGMM_2steps_step2.inp)
+
+</p>
