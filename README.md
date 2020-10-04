@@ -11,6 +11,7 @@ In this part, we developed four models in unstructured time framework:
 - BLSGMs-TICs for estimating random knots
 
 **Demo:** 
+
 Frequentist Framework:
 
 - [*R* package: *OpenMx*](https://github.com/Veronica0206/Dissertation_projects/blob/master/OpenMx_P1/OpenMx_demo.md)
@@ -28,7 +29,7 @@ Bayesian Framework:
 - [BLSGMs-TICs for estimating fixed knots](https://github.com/Veronica0206/Dissertation_projects/blob/master/OpenMx_P1/BLSGM_TICs_fixed.R) 
 - [BLSGMs-TICs for estimating random knots](https://github.com/Veronica0206/Dissertation_projects/blob/master/OpenMx_P1/BLSGM_TICs_random.R)
 
-***OpenMx 8*** <br>
+***MPlus 8*** <br>
 - [BLSGMs for estimating fixed knots](https://github.com/Veronica0206/Dissertation_projects/blob/master/MPlus8_P1/BLSGM_Unknown%20Fixed%20Knot.inp)
 - [BLSGMs for estimating random knots](https://github.com/Veronica0206/Dissertation_projects/blob/master/MPlus8_P1/BLSGM_Unknown%20Random%20Knot.inp)
 - [BLSGMs-TICs for estimating fixed knots](https://github.com/Veronica0206/Dissertation_projects/blob/master/MPlus8_P1/BLSGM_TIC_Unknown%20Fixed%20Knot.inp) 
@@ -44,10 +45,12 @@ In this part, we developed two models in unstructured time framework:
 **Demo:** 
 Frequentist Framework:
 
-- [*R* package: *OpenMx*](https://github.com/Veronica0206/Dissertation_projects/blob/master/OpenMx_demo2.md)
+- [*R* package: *OpenMx*](https://github.com/Veronica0206/Dissertation_projects/blob/master/OpenMx_P2/OpenMx_demo.md)
 (For OS, R version, and OpenMx version, see the demo)
 
 **Source Code:** <br>
-Will be added later.
+***R package: OpenMx*** <br>
+- [Two-step BLSGMMs for estimating fixed knots: Step 1 & Step 2](https://github.com/Veronica0206/Dissertation_projects/blob/master/OpenMx_P2/BLSGMM_fixed_2steps.R)
+- [One-step BLSGMMs for estimating fixed knots](https://github.com/Veronica0206/Dissertation_projects/blob/master/OpenMx_P2/BLSGMM_fixed_1step.R)
 
 </div>
