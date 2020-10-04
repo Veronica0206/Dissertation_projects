@@ -22,7 +22,12 @@ Bayesian Framework:
 (For OS, R version, and rjags version, see the demo)
 
 **Source Code:** <br>
-Will be added later.
+- [*R* package: *OpenMx*]
+- [BLSGMs for estimating fixed knots](https://github.com/Veronica0206/Dissertation_projects/blob/master/OpenMx_P1/BLSGM_fixed.R)
+- [BLSGMs for estimating random knots](https://github.com/Veronica0206/Dissertation_projects/blob/master/OpenMx_P1/BLSGM_TICs_random.R)
+- [BLSGMs-TICs for estimating fixed knots](https://github.com/Veronica0206/Dissertation_projects/blob/master/OpenMx_P1/BLSGM_TICs_fixed.R) 
+- [BLSGMs-TICs for estimating random knots](https://github.com/Veronica0206/Dissertation_projects/blob/master/OpenMx_P1/BLSGM_TICs_random.R)
+
 
 ## Part II: Bilinear spline growth mixture models (BLSGMMs) in the framework of individual measurement occasions
 In this part, we developed two models in unstructured time framework:
