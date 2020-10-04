@@ -24,7 +24,7 @@ Bayesian Framework:
 **Source Code:** <br>
 - [*R* package: *OpenMx*]
 - [BLSGMs for estimating fixed knots](https://github.com/Veronica0206/Dissertation_projects/blob/master/OpenMx_P1/BLSGM_fixed.R)
-- [BLSGMs for estimating random knots](https://github.com/Veronica0206/Dissertation_projects/blob/master/OpenMx_P1/BLSGM_TICs_random.R)
+- [BLSGMs for estimating random knots](https://github.com/Veronica0206/Dissertation_projects/blob/master/OpenMx_P1/BLSGM_random.R)
 - [BLSGMs-TICs for estimating fixed knots](https://github.com/Veronica0206/Dissertation_projects/blob/master/OpenMx_P1/BLSGM_TICs_fixed.R) 
 - [BLSGMs-TICs for estimating random knots](https://github.com/Veronica0206/Dissertation_projects/blob/master/OpenMx_P1/BLSGM_TICs_random.R)
 
