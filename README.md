@@ -40,7 +40,7 @@ In this part, we developed two models in unstructured time framework:
 - One-step BLSGMMs for estimating fixed knots (Mixture of experts models for clustering and estimating coefficients simultaneously)
 
 **Example data:**
-[Data](https://github.com/Veronica0206/Dissertation_projects/blob/master/OpenMx_P2/example_data.csv)
+Will be added later.
 
 **Demo:** 
 
