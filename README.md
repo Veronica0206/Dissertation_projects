@@ -3,6 +3,9 @@
 # Dissertation Projects Demo
 
 ## Part I: Bilinear spline growth models (BLSGMs) w(w/o) time-invariant covariates (TICs) in the framework of individual measurement occasions
+**Manuscript Title:** <br>
+Obtaining interpretable parameters from reparameterized longitudinal models: transformation matrices between growth factors in two parameter-spaces
+
 **Description:** <br>
 In this part, we developed four models in unstructured time framework:
 - BLSGMs for estimating fixed knots 
@@ -32,6 +35,10 @@ In this part, we developed four models in unstructured time framework:
 - BLSGMs-TICs for estimating random knots: [Source Code](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%201/MPlus8_P1/BLSGM_TIC_Unknown%20Random%20Knot.inp)
 
 ## Part II: Bilinear spline growth mixture models (BLSGMMs) in the framework of individual measurement occasions
+**Manuscript Title:** <br>
+Two-step growth mixture model to examine heterogeneity in nonlinear trajectories.
+
+**Description:** <br>  
 In this part, we developed two models in unstructured time framework:
 - Two-step BLSGMMs for estimating fixed knots
 (1) First step: multivariate Gaussian mixture models for clustering trajectories with considering uncertainty;
