@@ -14,7 +14,7 @@ In this part, we developed four models in unstructured time framework:
 - BLSGMs-TICs for estimating random knots
 
 **Example data:**
-- [Example data](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%201/example_data.csv)
+- [Data](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%201/example_data.csv)
 
 **Demo:** 
 - [*R* package: *OpenMx*](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%201/OpenMx_P1/OpenMx_demo.md)
@@ -45,7 +45,7 @@ In this part, we developed two models in unstructured time framework:
 - One-step BLSGMMs for estimating fixed knots (Mixture of experts models for clustering and estimating coefficients simultaneously)
 
 **Example data:**
-- [Example data](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%202/example_data.csv)
+- [Data](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%202/example_data.csv)
 
 **Demo:** 
 - [*R* package: *OpenMx*](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%202/OpenMx_P2/OpenMx_demo.md)
