@@ -37,7 +37,7 @@ In this part, we developed four models in unstructured time framework:
 **Manuscript Title:** <br>
 Two-step growth mixture model to examine heterogeneity in nonlinear trajectories (accepted for publication in *Journal of Behavioral Data Science*)
 
-**Description:** <br>  
+**Description:** <br> 
 In this part, we developed two models in unstructured time framework:
 - Two-step BLSGMMs for estimating fixed knots
 (1) First step: multivariate Gaussian mixture models for clustering trajectories with considering uncertainty;
