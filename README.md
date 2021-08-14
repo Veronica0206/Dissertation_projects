@@ -11,26 +11,25 @@ In this part, we developed four models in unstructured time framework:
 - BLSGMs-TICs for estimating random knots
 
 **Example data:**
-Will be added later.
+- [Example data](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%201/example_data.csv)
 
 **Demo:** 
 
-Frequentist Framework:
-
-- [*R* package: *OpenMx*](https://github.com/Veronica0206/Dissertation_projects/blob/master/OpenMx_P1/OpenMx_demo.md)
+- [*R* package: *OpenMx*](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%201/OpenMx_P1/OpenMx_demo.md)
 (For OS, R version, and OpenMx version, see the demo)
-
-Bayesian Framework:
-
-- [*R* package: *rjags*](https://github.com/Veronica0206/Dissertation_projects/blob/master/rjags_demo1.md)
-(For OS, R version, and rjags version, see the demo)
 
 **Source Code:** <br>
 ***R package: OpenMx*** <br>
-Will be added later
+- BLSGMs for estimating fixed knots: [Source Code](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%201/OpenMx_P1/BLSGM_fixed.R)
+- BLSGMs for estimating random knots: [Source Code](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%201/OpenMx_P1/BLSGM_random.R)
+- BLSGMs-TICs for estimating fixed knots: [Source Code](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%201/OpenMx_P1/BLSGM_TICs_fixed.R)
+- BLSGMs-TICs for estimating random knots: [Source Code](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%201/OpenMx_P1/BLSGM_TICs_random.R)
 
 ***MPlus 8*** <br>
-Will be added later.
+- BLSGMs for estimating fixed knots: [Source Code](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%201/MPlus8_P1/BLSGM_Unknown%20Fixed%20Knot.inp)
+- BLSGMs for estimating random knots: [Source Code](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%201/MPlus8_P1/BLSGM_Unknown%20Random%20Knot.inp)
+- BLSGMs-TICs for estimating fixed knots: [Source Code](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%201/MPlus8_P1/BLSGM_TIC_Unknown%20Fixed%20Knot.inp)
+- BLSGMs-TICs for estimating random knots: [Source Code](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%201/MPlus8_P1/BLSGM_TIC_Unknown%20Random%20Knot.inp)
 
 ## Part II: Bilinear spline growth mixture models (BLSGMMs) in the framework of individual measurement occasions
 In this part, we developed two models in unstructured time framework:
