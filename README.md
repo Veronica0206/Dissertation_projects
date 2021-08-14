@@ -39,17 +39,16 @@ In this part, we developed two models in unstructured time framework:
 - One-step BLSGMMs for estimating fixed knots (Mixture of experts models for clustering and estimating coefficients simultaneously)
 
 **Example data:**
-Will be added later.
+- [Example data](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%202/example_data.csv)
 
 **Demo:** 
 
-Frequentist Framework:
-
-- [*R* package: *OpenMx*](https://github.com/Veronica0206/Dissertation_projects/blob/master/OpenMx_P2/OpenMx_demo.md)
+- [*R* package: *OpenMx*](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%202/OpenMx_P2/OpenMx_demo.md)
 (For OS, R version, and OpenMx version, see the demo)
 
 **Source Code:** <br>
 ***R package: OpenMx*** <br>
-Will be added later.
-
+- Two-step BLSGMMs for estimating fixed knots (Mixture of experts models for clustering and estimating coefficients separately): [Source Code](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%202/OpenMx_P2/BLSGMM_fixed_2steps.R)
+- One-step BLSGMMs for estimating fixed knots (Mixture of experts models for clustering and estimating coefficients simultaneously): [Source Code](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%202/OpenMx_P2/BLSGMM_fixed_1step.R)
+ 
 </div>
