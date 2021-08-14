@@ -17,7 +17,6 @@ In this part, we developed four models in unstructured time framework:
 - [Example data](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%201/example_data.csv)
 
 **Demo:** 
-
 - [*R* package: *OpenMx*](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%201/OpenMx_P1/OpenMx_demo.md)
 (For OS, R version, and OpenMx version, see the demo)
 
@@ -49,7 +48,6 @@ In this part, we developed two models in unstructured time framework:
 - [Example data](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%202/example_data.csv)
 
 **Demo:** 
-
 - [*R* package: *OpenMx*](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%202/OpenMx_P2/OpenMx_demo.md)
 (For OS, R version, and OpenMx version, see the demo)
 
