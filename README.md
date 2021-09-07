@@ -20,7 +20,7 @@ In this part, we developed four models in unstructured time framework:
 - [*R* package: *OpenMx*](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%201/OpenMx_demo.md)
 (For OS, R version, and OpenMx version, see the demo)
   
-**The models developed in this project are now part of *R* package *NonLinearCurve*, where we provide functions capable of `calculating' starting values from the input and generate the estimates described in the manuscript.**
+**The models developed in this project are now part of *R* package *NonLinearCurve*, where we provide functions capable of 'calculating' starting values from the input and generate the estimates described in the manuscript.**
 - [BLSGMs for estimating fixed knots](https://github.com/Veronica0206/NonLinearCurve/blob/main/R/BLSGM_fixed.R)
 - [BLSGMs for estimating random knots](https://github.com/Veronica0206/NonLinearCurve/blob/main/R/BLSGM_random.R)
 - [BLSGMs-TICs for estimating fixed knots](https://github.com/Veronica0206/NonLinearCurve/blob/main/R/BLSGM_TIC_fixed.R)
@@ -56,10 +56,13 @@ In this part, we developed two models in unstructured time framework:
 **Demo:** 
 - [*R* package: *OpenMx*](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%202/OpenMx_demo.md)
 (For OS, R version, and OpenMx version, see the demo)
+  
+**The models developed in this project are now part of *R* package *NonLinearCurve*, where we provide functions capable of 'calculating' starting values from the input and generate the estimates described in the manuscript.**
+- [Two-step BLSGMMs for estimating fixed knots (Growth Mixture Model for clustering and estimating coefficients separately)](https://github.com/Veronica0206/NonLinearCurve/blob/main/R/BLSGMM_2steps.R)  
 
 **Source Code:** <br>
 ***R package: OpenMx*** <br>
-- [Two-step BLSGMMs for estimating fixed knots (Mixture of experts models for clustering and estimating coefficients separately)](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%202/OpenMx_P2/BLSGMM_fixed_2steps.R)
-- [One-step BLSGMMs for estimating fixed knots (Mixture of experts models for clustering and estimating coefficients simultaneously)](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%202/OpenMx_P2/BLSGMM_fixed_1step.R)
+- [Two-step BLSGMMs for estimating fixed knots (Growth Mixture Model for clustering and estimating coefficients separately)](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%202/OpenMx_P2/BLSGMM_fixed_2steps.R)
+
  
 </div>
