@@ -22,10 +22,11 @@ In this part, we developed four models in unstructured time framework:
 
 **Source Code:** <br>
 ***R package: OpenMx*** <br>
-- [BLSGMs for estimating fixed knots](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%201/OpenMx_P1/BLSGM_fixed.R)
-- [BLSGMs for estimating random knots](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%201/OpenMx_P1/BLSGM_random.R)
-- [BLSGMs-TICs for estimating fixed knots](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%201/OpenMx_P1/BLSGM_TICs_fixed.R)
-- [BLSGMs-TICs for estimating random knots](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%201/OpenMx_P1/BLSGM_TICs_random.R)
+**The models developed in this project are now part of *R* package *NonLinearCurve* (dependency: *OpenMx*), where we provide functions capable of 'calculating' starting values from the input and generate the estimates described in the manuscript.**
+- [BLSGMs for estimating fixed knots](https://github.com/Veronica0206/NonLinearCurve/blob/main/R/BLSGM_fixed.R)
+- [BLSGMs for estimating random knots](https://github.com/Veronica0206/NonLinearCurve/blob/main/R/BLSGM_random.R)
+- [BLSGMs-TICs for estimating fixed knots](https://github.com/Veronica0206/NonLinearCurve/blob/main/R/BLSGM_TIC_fixed.R)
+- [BLSGMs-TICs for estimating random knots](https://github.com/Veronica0206/NonLinearCurve/blob/main/R/BLSGM_TIC_random.R)
 
 ***MPlus 8*** <br>
 - [BLSGMs for estimating fixed knots](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%201/MPlus8_P1/BLSGM_Unknown%20Fixed%20Knot.inp)
@@ -50,10 +51,11 @@ In this part, we developed two models in unstructured time framework:
 **Demo:** 
 - [*R* package: *OpenMx*](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%202/OpenMx_demo.md)
 (For OS, R version, and OpenMx version, see the demo)
-
+  
 **Source Code:** <br>
 ***R package: OpenMx*** <br>
-- [Two-step BLSGMMs for estimating fixed knots (Mixture of experts models for clustering and estimating coefficients separately)](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%202/OpenMx_P2/BLSGMM_fixed_2steps.R)
-- [One-step BLSGMMs for estimating fixed knots (Mixture of experts models for clustering and estimating coefficients simultaneously)](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%202/OpenMx_P2/BLSGMM_fixed_1step.R)
+**The Two-step model developed in this project is now part of *R* package *NonLinearCurve* (dependency: *OpenMx*), where we provide functions capable of 'calculating' starting values from the input and generate the estimates described in the manuscript.**
+(https://github.com/Veronica0206/NonLinearCurve/blob/main/R/BLSGMM_2steps.R)  
+
  
 </div>
