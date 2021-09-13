@@ -4,7 +4,7 @@
 
 ## Part I: Bilinear spline growth models (BLSGMs) w(w/o) time-invariant covariates (TICs) in the framework of individual measurement occasions
 **Manuscript Title:** <br>
-Obtaining interpretable parameters from reparameterized longitudinal models: transformation matrices between growth factors in two parameter-spaces
+Obtaining interpretable parameters from reparameterized longitudinal models: transformation matrices between growth factors in two parameter-spaces (**accepted for publication in *Journal of Educational and Behavioral Statistics***)
 
 **Description:** <br>
 In this part, we developed four models in unstructured time framework:
