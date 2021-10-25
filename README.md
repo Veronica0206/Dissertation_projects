@@ -8,10 +8,10 @@ Obtaining interpretable parameters from reparameterized longitudinal models: tra
 
 **Description:** <br>
 In this part, we developed four models in unstructured time framework:
-- BLSGMs for estimating fixed knots (not included in the manuscript, we provide source code for the cases that the TICs that are not the primary interest)
-- BLSGMs for estimating random knots (not included in the manuscript, we provide source code for the cases that the TICs that are not the primary interest)
-- BLSGMs-TICs for estimating fixed knots (included in the manuscript)
-- BLSGMs-TICs for estimating random knots (included in the manuscript)
+- BLSGMs for estimating fixed knots (not in the manuscript)
+- BLSGMs for estimating random knots (not in the manuscript)
+- BLSGMs-TICs for estimating fixed knots (in the manuscript)
+- BLSGMs-TICs for estimating random knots (in the manuscript)
 
 **Example data:**
 - [Data](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%201/example_data.csv)
@@ -23,14 +23,14 @@ In this part, we developed four models in unstructured time framework:
 **Source Code:** <br>
 ***R package: OpenMx*** <br>
 **The models developed in this project are now part of *R* package *NonLinearCurve* (dependency: *OpenMx*), where we provide functions capable of 'calculating' starting values from the input and generate the estimates described in the manuscript.**
-- [BLSGMs for estimating fixed knots](https://github.com/Veronica0206/NonLinearCurve/blob/main/R/BLSGM_fixed.R)
-- [BLSGMs for estimating random knots](https://github.com/Veronica0206/NonLinearCurve/blob/main/R/BLSGM_random.R)
+- [BLSGMs for estimating fixed knots](https://github.com/Veronica0206/NonLinearCurve/blob/main/R/BLSGM_fixed.R) (not in the manuscript, provide for the cases that the TICs that are not the primary interest)
+- [BLSGMs for estimating random knots](https://github.com/Veronica0206/NonLinearCurve/blob/main/R/BLSGM_random.R) (not in the manuscript, provide for the cases that the TICs that are not the primary interest)
 - [BLSGMs-TICs for estimating fixed knots](https://github.com/Veronica0206/NonLinearCurve/blob/main/R/BLSGM_TIC_fixed.R)
 - [BLSGMs-TICs for estimating random knots](https://github.com/Veronica0206/NonLinearCurve/blob/main/R/BLSGM_TIC_random.R)
 
 ***MPlus 8*** <br>
-- [BLSGMs for estimating fixed knots](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%201/MPlus8_P1/BLSGM_Unknown%20Fixed%20Knot.inp)
-- [BLSGMs for estimating random knots](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%201/MPlus8_P1/BLSGM_Unknown%20Random%20Knot.inp)
+- [BLSGMs for estimating fixed knots](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%201/MPlus8_P1/BLSGM_Unknown%20Fixed%20Knot.inp) (not in the manuscript, provide for the cases that the TICs that are not the primary interest)
+- [BLSGMs for estimating random knots](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%201/MPlus8_P1/BLSGM_Unknown%20Random%20Knot.inp) (not in the manuscript, provide for the cases that the TICs that are not the primary interest)
 - [BLSGMs-TICs for estimating fixed knots](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%201/MPlus8_P1/BLSGM_TIC_Unknown%20Fixed%20Knot.inp)
 - [BLSGMs-TICs for estimating random knots](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%201/MPlus8_P1/BLSGM_TIC_Unknown%20Random%20Knot.inp)
 
