@@ -8,10 +8,10 @@ Obtaining interpretable parameters from reparameterized longitudinal models: tra
 
 **Description:** <br>
 In this part, we developed four models in unstructured time framework:
-- BLSGMs for estimating fixed knots 
-- BLSGMs for estimating random knots
-- BLSGMs-TICs for estimating fixed knots 
-- BLSGMs-TICs for estimating random knots
+- BLSGMs for estimating fixed knots (not included in the manuscript, we provide source code for the cases that the TICs that are not the primary interest)
+- BLSGMs for estimating random knots (not included in the manuscript, we provide source code for the cases that the TICs that are not the primary interest)
+- BLSGMs-TICs for estimating fixed knots (included in the manuscript)
+- BLSGMs-TICs for estimating random knots (included in the manuscript)
 
 **Example data:**
 - [Data](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%201/example_data.csv)
