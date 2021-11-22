@@ -14,10 +14,10 @@ In this part, we developed four models in unstructured time framework:
 - BLSGMs-TICs for estimating random knots (in the manuscript)
 
 **Example data:**
-- [Data](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%201/example_data.csv)
+- [Data](https://github.com/Veronica0206/NonLinearCurve/blob/main/data/uni_dat.RData)
 
 **Demo:** 
-- [*R* package: *OpenMx*](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%201/OpenMx_demo.md)
+- [*R* package: *OpenMx*](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%201/OpenMx_P1/OpenMx_demo.md)
 (For OS, R version, and OpenMx version, see the demo)
 
 **Source Code:** <br>
@@ -46,10 +46,10 @@ In this part, we developed two models in unstructured time framework:
 - One-step BLSGMMs for estimating fixed knots (Mixture of experts models for clustering and estimating coefficients simultaneously)
 
 **Example data:**
-- [Data](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%202/example_data.csv)
+- [Data](https://github.com/Veronica0206/NonLinearCurve/blob/main/data/uni_sub_dat.RData)
 
 **Demo:** 
-- [*R* package: *OpenMx*](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%202/OpenMx_demo.md)
+- [*R* package: *OpenMx*](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%202/OpenMx_P2/OpenMx_demo.md)
 (For OS, R version, and OpenMx version, see the demo)
   
 **Source Code:** <br>
