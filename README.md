@@ -23,10 +23,10 @@ In this part, we developed four models in unstructured time framework:
 (For OS, R version, and OpenMx version, see the demo)
 
 ***MPlus 8*** <br>
-- [BLSGMs for estimating fixed knots](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%201/MPlus8_P1/BLSGM_Unknown%20Fixed%20Knot.inp) (not in the manuscript, provide for the cases that the TICs that are not the primary interest)
-- [BLSGMs for estimating random knots](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%201/MPlus8_P1/BLSGM_Unknown%20Random%20Knot.inp) (not in the manuscript, provide for the cases that the TICs that are not the primary interest)
-- [BLSGMs-TICs for estimating fixed knots](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%201/MPlus8_P1/BLSGM_TIC_Unknown%20Fixed%20Knot.inp)
-- [BLSGMs-TICs for estimating random knots](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%201/MPlus8_P1/BLSGM_TIC_Unknown%20Random%20Knot.inp)
+- [BLSGMs for estimating fixed knots](https://github.com/Veronica0206/Dissertation_projects/tree/master/Part1/MPlus8/BLSGM_Unknown%20Fixed%20Knot.inp) (not in the manuscript, provide for the cases that the TICs that are not the primary interest)
+- [BLSGMs for estimating random knots](https://github.com/Veronica0206/Dissertation_projects/tree/master/Part1/MPlus8/BLSGM_Unknown%20Random%20Knot.inp) (not in the manuscript, provide for the cases that the TICs that are not the primary interest)
+- [BLSGMs-TICs for estimating fixed knots](https://github.com/Veronica0206/Dissertation_projects/tree/master/Part1/MPlus8/BLSGM_TIC_Unknown%20Fixed%20Knot.inp)
+- [BLSGMs-TICs for estimating random knots](https://github.com/Veronica0206/Dissertation_projects/tree/master/Part1/MPlus8/BLSGM_TIC_Unknown%20Random%20Knot.inp)
 
 ## Part II: Bilinear spline growth mixture models (BLSGMMs) in the framework of individual measurement occasions
 **Manuscript Title:** <br>
