@@ -14,10 +14,10 @@ In this part, we developed four models in unstructured time framework:
 - BLSGMs-TICs for estimating random knots (in the manuscript)
 
 **Example data:**
-- [Data](https://github.com/Veronica0206/NonLinearCurve/blob/main/data/BLSGM_uni_dat.RData)
+- [Data](https://github.com/Veronica0206/Dissertation_projects/tree/master/Part1/Data/BLS_dat.RData)
 
 **Demo:** 
-- [*R* package: *OpenMx*](https://github.com/Veronica0206/Dissertation_projects/blob/master/Part%201/OpenMx_P1/OpenMx_demo.md)
+- [*R* package: *OpenMx*](https://github.com/Veronica0206/Dissertation_projects/tree/master/Part1/OpenMx/OpenMx_demo.md)
 (For OS, R version, and OpenMx version, see the demo)
 
 **Source Code:** <br>
